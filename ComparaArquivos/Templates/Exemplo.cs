@@ -8,6 +8,6 @@ namespace ComparaArquivos.Templates
 {
     internal class Exemplo
     {
-        public string Nome { get; set; } = "Exemplo";
+        public string Nome { get; set; } = "Exemploo";
     }
 }
